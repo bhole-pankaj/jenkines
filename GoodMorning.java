@@ -1,5 +1,4 @@
-package com.sanumala;
-public class GoodMorning
+class GoodMorning
 {   
       public static void main(String[] args)
       {       
